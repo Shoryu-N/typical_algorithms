@@ -1,4 +1,5 @@
-INF = 10 ** 10
+INF = 10 ** 20
+
 n = int(input())
 dist = [[INF] * n for _ in range(n)]
 
